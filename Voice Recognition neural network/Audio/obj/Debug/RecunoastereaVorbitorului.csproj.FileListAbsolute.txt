@@ -1,0 +1,57 @@
+C:\b\Audio\Audio\bin\Debug\Bass.Net.dll
+C:\b\Audio\Audio\bin\Debug\MathNet.Numerics.dll
+C:\b\Audio\Audio\bin\Debug\NAudio.dll
+C:\b\Audio\Audio\bin\Debug\MathNet.Numerics.xml
+C:\b\Audio\Audio\bin\Debug\NAudio.xml
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csprojAssemblyReference.cache
+C:\b\Audio\Audio\obj\Debug\Audio.AddUserForm.resources
+C:\b\Audio\Audio\obj\Debug\Audio.MainForm.resources
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.GenerateResource.cache
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.CoreCompileInputs.cache
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.CopyComplete
+C:\b\Audio\Audio\obj\Debug\Audio.VerificareForm.resources
+C:\b\Audio\Audio\bin\Debug\RecunoastereaVorbitorului.exe.config
+C:\b\Audio\Audio\bin\Debug\RecunoastereaVorbitorului.exe
+C:\b\Audio\Audio\bin\Debug\RecunoastereaVorbitorului.pdb
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.Properties.Resources.resources
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.exe
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.pdb
+C:\b\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.SettingsForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\RecunoastereaVorbitorului.exe.config
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\RecunoastereaVorbitorului.exe
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\RecunoastereaVorbitorului.pdb
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\Bass.Net.dll
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\NAudio.dll
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\bin\Debug\NAudio.xml
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\Audio.AddUserForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\Audio.MainForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.Properties.Resources.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.SettingsForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\Audio.VerificareForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.GenerateResource.cache
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.CoreCompileInputs.cache
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.CopyComplete
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.exe
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.pdb
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\Debug\RecunoastereaVorbitorului.csprojAssemblyReference.cache
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\RecunoastereaVorbitorului.exe.config
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\RecunoastereaVorbitorului.exe
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\RecunoastereaVorbitorului.pdb
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\Bass.Net.dll
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\MathNet.Numerics.dll
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\NAudio.dll
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\bin\Debug\NAudio.xml
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.csprojAssemblyReference.cache
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\Audio.AddUserForm.resources
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\Audio.MainForm.resources
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.Properties.Resources.resources
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.SettingsForm.resources
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\Audio.VerificareForm.resources
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.GenerateResource.cache
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.CoreCompileInputs.cache
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.csproj.CopyComplete
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.exe
+C:\Users\Kabut\Desktop\Halmaciu Ioan Cosmin\Recunoasterea Vorbitorului\Audio\obj\Debug\RecunoastereaVorbitorului.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\Audio.AddUserForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\Audio.MainForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\RecunoastereaVorbitorului.Properties.Resources.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\RecunoastereaVorbitorului.SettingsForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\Audio.VerificareForm.resources
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\RecunoastereaVorbitorului.csproj.GenerateResource.cache
+C:\Users\Kabut\Desktop\Licenta\Program\Audio\Audio\obj\x64\Debug\RecunoastereaVorbitorului.csproj.CoreCompileInputs.cache
